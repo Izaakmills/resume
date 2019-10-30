@@ -1,6 +1,6 @@
-# resume
+# Izaak Mills Reesume
 
-##Education
+## Education
 Certificate - Full Stack Web Development Program 
 University of New Hampshire, June 2018 - December 2018
 Portsmouth, NH
