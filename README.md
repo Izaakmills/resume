@@ -40,6 +40,14 @@ Team underwriter focused on pricing group life, disability and VB products.
 •	Created a quote tracking dashboard using Excel as the front end integrating with a shared Access database on the backend. The tool provides a one stop shop for managers to enter case assignments, with the benefit of added logic that catches duplicate / misquotes. Additional functionality includes the ability to send automated emails to underwriters to alert them of case assignments.
 
 
+### Hobbies
+
+- Learning and trying out new things
+- Most outside activies, specifically hiking and fishing.
+- Most every sport, but nowadays golf is more my speed.
+- Hangin out with my dog Luke
+- Watching new england sports teams 
+
 
 
 
