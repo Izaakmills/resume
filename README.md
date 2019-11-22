@@ -46,7 +46,7 @@ Team underwriter focused on pricing group life, disability and VB products.
 - Most outside activies, specifically hiking and fishing.
 - Most every sport, but nowadays golf is more my speed.
 - Hangin out with my dog Luke
-- Watching new england sports teams 
+- Watching any New England sports team
 
 
 
