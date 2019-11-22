@@ -25,8 +25,8 @@ Skills:
 -	PostGreSQL, MySQL
 -	Docker, AWS, Virtual Box / Vagrant VM’s
 
-##### Web Developer Boot Camp
-###### University of New Hampshire, June 2018 – December 2018
+#### Web Developer Boot Camp
+##### University of New Hampshire, June 2018 – December 2018
 A 6-month full stack web development boot camp focused on web-based applications, languages and frameworks.
 
      Projects:
