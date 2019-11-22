@@ -13,8 +13,8 @@ Standish, ME
 
 ### Experience
 
-##Software Engineer
-#Lincoln Financial Group, Dover NH, March 2019 - 
+## Software Engineer
+# Lincoln Financial Group, Dover NH, March 2019 - 
 Member of customer Portal team. Focused on delivering external facing insurance solutions to customers.
 -	Contributed to a shared component library that utilizes Typescript and Storybook and React. Library is used across several customer facing and internally facing applications easily extending custom styling and consistent look and feel to those applications.
 -	Built upon existing Java Spring-Boot microservice architecture crafting specific REST endpoints for front end service calls.
@@ -25,8 +25,8 @@ Skills:
 -	PostGreSQL, MySQL
 -	Docker, AWS, Virtual Box / Vagrant VM’s
 
-##Web Developer Boot Camp
-#University of New Hampshire, June 2018 – December 2018
+## Web Developer Boot Camp
+# University of New Hampshire, June 2018 – December 2018
 A 6-month full stack web development boot camp focused on web-based applications, languages and frameworks.
 
      Projects:
