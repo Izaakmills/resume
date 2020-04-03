@@ -14,7 +14,7 @@ Standish, ME
 ### Experience
 
 #### Software Engineer
-##### Lincoln Financial Group, Dover NH, March 2019 - 
+##### Lincoln Financial Group, Dover NH, March 2019 - present
 Member of customer Portal team. Focused on delivering external facing insurance solutions to customers.
 -	Contributed to a shared component library that utilizes Typescript and Storybook and React. Library is used across several customer facing and internally facing applications easily extending custom styling and consistent look and feel to those applications.
 -	Built upon existing Java Spring-Boot microservice architecture crafting specific REST endpoints for front end service calls.
